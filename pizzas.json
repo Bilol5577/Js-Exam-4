@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Pepperoni",
+    "price": 55000,
+    "image": "img/Pepperoni.webp",
+    "category": "meat",
+    "popularity": 5
+  },
+  {
+    "id": 2,
+    "name": "Margarita",
+    "price": 45000,
+    "image": "img/margarita.webp",
+    "category": "vegetarian",
+    "popularity": 4
+  },
+  {
+    "id": 3,
+    "name": "Barbekyu",
+    "price": 60000,
+    "image": "img/barbekyu.webp",
+    "category": "grill",
+    "popularity": 3
+  },
+  {
+    "id": 4,
+    "name": "Hawaiian",
+    "price": 50000,
+    "image": "img/hawaiian.webp",
+    "category": "spicy",
+    "popularity": 2
+  },
+  {
+    "id": 5,
+    "name": "Vegetarian",
+    "price": 48000,
+    "image": "img/vegetarian.webp",
+    "category": "vegetarian",
+    "popularity": 1
+  },
+  {
+    "id": 6,
+    "name": "Closed Pizza",
+    "price": 57000,
+    "image": "img/closed pizza.webp",
+    "category": "closed",
+    "popularity": 6
+  },
+  {
+    "id": 7,
+    "name": "Mexican Heat",
+    "price": 59000,
+    "image": "img/mexican heat.webp",
+    "category": "spicy",
+    "popularity": 7
+  },
+  {
+    "id": 8,
+    "name": "Four Cheese",
+    "price": 53000,
+    "image": "img/four cheese.webp",
+    "category": "vegetarian",
+    "popularity": 8
+  },
+  {
+    "id": 9,
+    "name": "Chicken Deluxe",
+    "price": 61000,
+    "image": "img/chicken deluxe.webp",
+    "category": "meat",
+    "popularity": 9
+  },
+  {
+    "id": 10,
+    "name": "Tandoori Chicken",
+    "price": 60000,
+    "image": "img/tandoori chicken.webp",
+    "category": "grill",
+    "popularity": 10
+  },
+  {
+    "id": 11,
+    "name": "Spinach & Feta",
+    "price": 47000,
+    "image": "img/spinach & Feta.webp",
+    "category": "vegetarian",
+    "popularity": 11
+  },
+  {
+    "id": 12,
+    "name": "Seafood Pizza",
+    "price": 65000,
+    "image": "img/seafood pizza.webp",
+    "category": "meat",
+    "popularity": 12
+  },
+  {
+    "id": 13,
+    "name": "Sausage Feast",
+    "price": 58000,
+    "image": "img/Sausage Feast.webp",
+    "category": "meat",
+    "popularity": 13
+  },
+  {
+    "id": 14,
+    "name": "Cheesy Garlic",
+    "price": 49000,
+    "image": "img/Cheesy Garlic.webp",
+    "category": "closed",
+    "popularity": 14
+  },
+  {
+    "id": 15,
+    "name": "Veggie Supreme",
+    "price": 52000,
+    "image": "img/Veggie Supreme.webp",
+    "category": "vegetarian",
+    "popularity": 15
+  },
+  {
+    "id": 16,
+    "name": "Double Pepperoni",
+    "price": 62000,
+    "image": "img/Double Pepperoni.webp",
+    "category": "meat",
+    "popularity": 16
+  },
+  {
+    "id": 17,
+    "name": "Beef & Mushroom",
+    "price": 60000,
+    "image": "img/Beef & Mushroom.webp",
+    "category": "grill",
+    "popularity": 17
+  },
+  {
+    "id": 18,
+    "name": "Buffalo Chicken",
+    "price": 61000,
+    "image": "img/Buffalo Chicken.webp",
+    "category": "spicy",
+    "popularity": 18
+  },
+  {
+    "id": 19,
+    "name": "Caprese Pizza",
+    "price": 50000,
+    "image": "img/Caprese Pizza.webp",
+    "category": "vegetarian",
+    "popularity": 19
+  },
+  {
+    "id": 20,
+    "name": "Meatball Pizza",
+    "price": 64000,
+    "image": "img/Meatball Pizza.webp",
+    "category": "meat",
+    "popularity": 20
+  }
+]

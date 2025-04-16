@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>React Pizza</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Pizza Menyu</h1>
+    <a href="savat.html" style="text-decoration: none; float: right; margin-top: -40px; font-size: 1rem; background: #ff4d00; color: #fff; padding: 8px 12px; border-radius: 8px;">🛒 Savat</a>
+  </header>
+
+  <main>
+    <div class="category-buttons">
+      <button onclick="filterPizzas('meat')">Все Мясные</button>
+      <button onclick="filterPizzas('vegetarian')">Вегетарианская</button>
+      <button onclick="filterPizzas('grill')">Гриль</button>
+      <button onclick="filterPizzas('spicy')">Острые</button>
+      <button onclick="filterPizzas('closed')">Закрытые</button>
+      <button onclick="filterPizzas('all')">Все</button>
+
+      <!--  -->
+
+      
+    </div>
+
+
+    <div>
+      <label for="sort-select">Сортировать по:</label>
+      <select id="sort-select" onchange="sortPizzas()">
+        <option value="popularity">Популярности</option>
+        <option value="price">По цене</option>
+        <option value="alphabet">По алфавиту</option>
+      </select>
+    </div>
+  </main>
+  <section id="pizza-list" class="pizzas">
+    <!-- Pitsalar shu yerda chiqadi -->
+    <!-- <div class="pizza">
+      <img src="img/pepperoni.jpg" alt="Pepperoni" />
+      <h3>Pepperoni</h3>
+      <p>55 000 so‘m</p>
+      <button>Qo‘shish</button>
+    </div> -->
+    
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
